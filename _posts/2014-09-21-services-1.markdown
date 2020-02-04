@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ballpen-blur-close-up-computer-461077.jpg
+img: person-pointing-at-black-and-gray-film-camera-near-macbook-1051075.jpg
 category: Services
 title: Planner & Organizer :<br>
 description: |
