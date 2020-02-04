@@ -1,6 +1,6 @@
 ---
 layout: default
-img: apple-camera-lens-computer-desk-577560.jpg
+img: realestate.jpg
 category: Services
 title: Special Skills 
 description: |
