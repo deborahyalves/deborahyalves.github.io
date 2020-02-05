@@ -5,12 +5,7 @@ category: Services
 title: Planner & Organizer<br>
 description: |
 ---
-  I have an inspiration for organizing and planning amazing and beautiful experiences for my clients. 
-  
-  <p>I have dedicated my life to helping others. I take great proud in taking my clients ideas from pen to paper to well planned schedule events. There is nothing too small or too big for me not to handle.</p>
- 
- 
- 
+  I have an inspiration for organizing and planning amazing and beautiful experiences for my clients. I take great proud in taking my clients ideas from pen to paper to well planned schedule events. There is nothing too small or too big for me not to handle. 
  
 <h5> "A Perfect great help to me in planning my wedding. I could't do without you!"</h5>
 
