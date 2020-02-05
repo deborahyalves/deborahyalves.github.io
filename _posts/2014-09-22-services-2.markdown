@@ -1,6 +1,6 @@
 ---
 layout: default
-img: feed.jpg
+img: working-in-a-group-6224.jpg
 category: Services
 title: Social Media Manager 
 description: |
