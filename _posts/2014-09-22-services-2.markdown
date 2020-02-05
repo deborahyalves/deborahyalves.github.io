@@ -1,6 +1,6 @@
 ---
 layout: default
-img: socialmedia.jpg
+img: feed.jpg
 category: Services
 title: Social Media Manager 
 description: |
